@@ -51,6 +51,12 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Horace_Walpole</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80126297</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<dc:contributor id="editor">Henry Morley</dc:contributor>
+		<meta property="file-as" refines="#editor">Morley, Henry</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#editor">https://en.wikipedia.org/wiki/Henry_Morley</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n50006134</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">aui</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">edt</meta>
 		<dc:contributor id="artist">COVERARTIST</dc:contributor>
 		<meta property="file-as" refines="#artist">COVERARTISTSORT</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">WIKILINK</meta>
