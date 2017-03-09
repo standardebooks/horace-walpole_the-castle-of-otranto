@@ -31,3 +31,12 @@ p span.i1{
 	text-indent: -1em;
 	padding-left: 2em;
 }
+
+footer{
+	text-align: right;
+	margin-top: 1em;
+}
+
+.signature{
+	font-variant: small-caps;
+}
