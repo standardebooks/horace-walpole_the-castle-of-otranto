@@ -15,15 +15,15 @@ abbr.name{
 	margin-top: 1em;
 }
 
-[epub|type~="z3998:poem"] p span,
-[epub|type~="z3998:verse"] p span{
+[epub|type~="z3998:poem"] p > span,
+[epub|type~="z3998:verse"] p > span{
 	display: block;
 	text-indent: -1em;
 	padding-left: 1em;
 }
 
-[epub|type~="z3998:poem"] br,
-[epub|type~="z3998:verse"] br{
+[epub|type~="z3998:poem"] p > span + br,
+[epub|type~="z3998:verse"] p > span + br{
 	display: none;
 }
 
@@ -39,4 +39,10 @@ footer{
 
 .signature{
 	font-variant: small-caps;
+}
+
+section[epub|type~="halftitlepage"] span[epub|type~="subtitle"]{
+	display: block;
+	font-size: .75em;
+	font-weight: normal;
 }
