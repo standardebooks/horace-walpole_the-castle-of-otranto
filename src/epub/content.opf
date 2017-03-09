@@ -20,10 +20,10 @@
 		<dc:title id="title">The Castle of Otranto</dc:title>
 		<meta property="file-as" refines="#title">Castle of Otranto, The</meta>
 		<meta property="title-type" refines="#title">main</meta>
-		<dc:title id="subtitle">A Story, Translated by William Marshal, Gent., From the Original Italian of Onuphrio Muralto, Canon of the Church of St. Nicholas at Otranto</dc:title>
-		<meta property="file-as" refines="#subtitle">Story, Translated by William Marshal, Gent., From the Original Italian of Onuphrio Muralto, Canon of the Church of St. Nicholas at Otranto, A</meta>
+		<dc:title id="subtitle">A Story, Translated by William Marshal, Gentleman, From the Original Italian of Onuphrio Muralto, Canon of the Church of St. Nicholas at Otranto</dc:title>
+		<meta property="file-as" refines="#subtitle">Story, Translated by William Marshal, Gentleman, From the Original Italian of Onuphrio Muralto, Canon of the Church of St. Nicholas at Otranto, A</meta>
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
-		<dc:title id="fulltitle">The Castle of Otranto: A Story, Translated by William Marshal, Gent., From the Original Italian of Onuphrio Muralto, Canon of the Church of St. Nicholas at Otranto</dc:title>
+		<dc:title id="fulltitle">The Castle of Otranto: A Story, Translated by William Marshal, Gentleman, From the Original Italian of Onuphrio Muralto, Canon of the Church of St. Nicholas at Otranto</dc:title>
 		<meta property="file-as" refines="#fulltitle">Castle of Otranto, The</meta>
 		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Horror tales</dc:subject>
