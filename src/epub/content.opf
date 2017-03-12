@@ -2,9 +2,9 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="cc: http://creativecommons.org/ns, se: http://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/horace-walpole/the-castle-of-otranto</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
-		<meta property="se:revision-number">0</meta>
+		<dc:date>2017-03-12T20:37:34Z</dc:date>
+		<meta property="dcterms:modified">2017-03-12T20:37:34Z</meta>
+		<meta property="se:revision-number">1</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -33,10 +33,13 @@
 		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/696</meta>
 		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/696</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A Gothic tale of chivalry, romance, and horror.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONGDESCRIPTION
+			&lt;p&gt;&lt;i&gt;The Castle of Otranto&lt;/i&gt; is considered to be the first “Gothic” novel—that is, containing a combination of tropes, like hidden passages, haunted paintings, mysterious sounds, skeletal ghosts, ancestral curses, and unexplained deaths, that essentially invented the genre later made famous by authors like Edgar Allan Poe, Bram Stoker, or Henry James.  Walpole made a point of creating a novel that blends supernatural elements with more realistic depictions of characters and events.&lt;/p&gt;
+			&lt;p&gt;The plot centers around Manfred, the lord of Otranto Castle, who has just witnessed the death of his son under mysterious circumstances, just as his son was about to be married.  Manfred is thrust into a galloping and melodramatic series of events that lean heavily on the supernatural.&lt;/p&gt;
+			&lt;p&gt;Walpole initially published &lt;i&gt;The Castle of Otranto&lt;/i&gt; under a pseudonym, claiming that his work was a translation of an ancient Italian manuscript.  This framing, along with the purposely archaic writing style, gives the supernatural airs of the novel a decidedly authentic flavor.  In later editions Walpole acknowledges his authorship.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Otranto&lt;/i&gt; remains a fast-paced and familiar read, thanks to the variety of recognizable tropes it introduced and made popular.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
