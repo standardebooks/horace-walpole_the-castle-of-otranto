@@ -29,8 +29,8 @@ p span.i1{
 }
 
 footer{
-	text-align: right;
 	margin-top: 1em;
+	text-align: right;
 }
 
 [epub|type~="z3998:signature"]{
