@@ -47,7 +47,7 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008020084</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A Gothic tale of chivalry, romance, and horror.</dc:abstract>
+		<meta property="schema:abstract">A Gothic tale of chivalry, romance, and horror.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Castle of Otranto&lt;/i&gt; is considered to be the first “Gothic” novel—that is, containing a combination of tropes, like hidden passages, haunted paintings, mysterious sounds, skeletal ghosts, ancestral curses, and unexplained deaths, that essentially invented the genre later made famous by authors like &lt;a href="https://standardebooks.org/ebooks/edgar-allan-poe"&gt;Edgar Allan Poe&lt;/a&gt;, &lt;a href="https://standardebooks.org/ebooks/bram-stoker"&gt;Bram Stoker&lt;/a&gt;, or &lt;a href="https://standardebooks.org/ebooks/henry-james"&gt;Henry James&lt;/a&gt;. &lt;a href="https://standardebooks.org/ebooks/horace-walpole"&gt;Walpole&lt;/a&gt; made a point of creating a novel that blends supernatural elements with more realistic depictions of characters and events.&lt;/p&gt;
 			&lt;p&gt;The plot centers around Manfred, the lord of Otranto Castle, who has just witnessed the death of his son under mysterious circumstances, just as his son was about to be married. Manfred is thrust into a galloping and melodramatic series of events that lean heavily on the supernatural.&lt;/p&gt;
